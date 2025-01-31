@@ -7,9 +7,11 @@ const todos = [
     "Do some coding",
     "Rake the leaves",
 ];
-
+let shiftValue = "";
+console.log();
+let popValue = "";
+console.log();
 // Declare your two immutable variables
-
 
 // Declaring constant variables to store references to the elements
 // that will be updated by your code.
